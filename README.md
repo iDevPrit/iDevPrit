@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/LostVenom/LostVenom/blob/main/LostVenomDS.gif">
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpirate303&count_bg=%23DDDDDD&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=Lost%20Hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpirate303&count_bg=%23DDDDDD&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=Shadow%20Hits&edge_flat=false)
 
 - 🔭 **Currently immersed in bot development projects.**
 
@@ -13,7 +13,7 @@
 
 - 💬 **Feel free to inquire about Bot Development, Web Development, Web Designing, Logo Designing, and more.**
 
-- 📫 **Contact me [Here](www.linkedin.com/in/lostvenom).**
+- 📫 **Contact me [Here](www.linkedin.com/in/SarfiraCoder).**
 
 - 📄 **Stay tuned for updates on my Development Experiences.**
 
@@ -57,10 +57,10 @@
 <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/625/558/png-transparent-bing-bing-logo-logo-search-engine-brand-logo-linux-logo-3d-icon-thumbnail.png"/></code>
 
 #
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LostVenom" alt="LostVenom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SarfiraCoder" alt="LostVenom" /></a> </p>
 
-<p align="left"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LostVenom&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=445&ring=0EE139&fire=0EE139&currStreakLabel=FFFFFF&sideNums=0EE139" alt="GitHub Streak" /></a> </p> 
+<p align="left"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SarfiraCoder&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=445&ring=0EE139&fire=0EE139&currStreakLabel=FFFFFF&sideNums=0EE139" alt="GitHub Streak" /></a> </p> 
 
-![𝐋Ⓞ𝐒⚚🕷𝐕𝚵𝗡Ⓞ𝐌](https://github-readme-stats.vercel.app/api/?username=LostVenom\&show_icons=true\&title_color=0EE139\&icon_color=0EE139\&text_color=9f9f9f\&bg_color=151515)
+![𝐋Ⓞ𝐒⚚🕷𝐕𝚵𝗡Ⓞ𝐌](https://github-readme-stats.vercel.app/api/?username=SarfiraCoder\&show_icons=true\&title_color=0EE139\&icon_color=0EE139\&text_color=9f9f9f\&bg_color=151515)
 
-![Lost Venom's GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=LostVenom&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)
+![Shadow's GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=SarfiraCoder&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)
