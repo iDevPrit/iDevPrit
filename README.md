@@ -1,6 +1,6 @@
 <h1 align="center">𝐇𝐞𝐲 👋 𝐋Ⓞ𝐒⚚🕷𝐕𝚵𝗡Ⓞ𝐌 𝐡𝐞𝐫𝐞</h1>
 <h3 align="center">A Passionate Developer & Engineering Student from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/LostVenom/LostVenom/blob/main/LostVenomDS.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/SarfiraCoder/SarfiraCoder/blob/main/ShadowDS.gif">
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpirate303&count_bg=%23DDDDDD&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=Shadow%20Hits&edge_flat=false)
@@ -22,7 +22,7 @@
 #
   
 </p>
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://github.com/LostVenom/LostVenom/blob/main/LostVenomGithub.webp"/>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://github.com/SarfiraCoder/SarfiraCoder/blob/main/Shadow.webp"/>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,7 +57,7 @@
 <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/625/558/png-transparent-bing-bing-logo-logo-search-engine-brand-logo-linux-logo-3d-icon-thumbnail.png"/></code>
 
 #
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SarfiraCoder" alt="LostVenom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SarfiraCoder" alt="Shadow" /></a> </p>
 
 <p align="left"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SarfiraCoder&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=445&ring=0EE139&fire=0EE139&currStreakLabel=FFFFFF&sideNums=0EE139" alt="GitHub Streak" /></a> </p> 
 
