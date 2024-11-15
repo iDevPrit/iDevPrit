@@ -61,6 +61,6 @@
 
 <p align="left"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SarfiraCoder&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=445&ring=0EE139&fire=0EE139&currStreakLabel=FFFFFF&sideNums=0EE139" alt="GitHub Streak" /></a> </p> 
 
-![𝐋Ⓞ𝐒⚚🕷𝐕𝚵𝗡Ⓞ𝐌](https://github-readme-stats.vercel.app/api/?username=SarfiraCoder\&show_icons=true\&title_color=0EE139\&icon_color=0EE139\&text_color=9f9f9f\&bg_color=151515)
+![𝗦ʜ𝚲ᴅⓄw 🥷](https://github-readme-stats.vercel.app/api/?username=SarfiraCoder\&show_icons=true\&title_color=0EE139\&icon_color=0EE139\&text_color=9f9f9f\&bg_color=151515)
 
 ![Shadow's GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=SarfiraCoder&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)
