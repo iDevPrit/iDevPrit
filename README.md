@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/SarfiraCoder/SarfiraCoder/blob/main/ShadowDS.gif">
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpirate303&count_bg=%23DDDDDD&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=Shadow%20Hits&edge_flat=false)
+
 
 - 🔭 **Currently immersed in bot development projects.**
 
