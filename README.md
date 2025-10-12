@@ -50,7 +50,6 @@
 <code><img height="40" width="40" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png"/></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/photoscape_x_macos_bigsur_icon_189834.png"/></code>
 <code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"/></code>
-<code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-2048x2026-9ua8vqiy.png"/></code>
 <code><img height="40" width="40" src="https://i.pinimg.com/originals/6f/73/32/6f73329230883dde8838c8f67479413f.png"/></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/1200px-Garuda-blue-sgs.svg.png"/></code>
 <code><img height="40" width="40" src="https://images.rawpixel.com/image_png_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMi0yMy5wbmc.png"/></code>
