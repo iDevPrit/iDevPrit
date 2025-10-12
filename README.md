@@ -36,7 +36,6 @@
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c.png"/></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"/></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/linux.png"/></code>
-<code><img height="40" width="40" src="https://icon-library.com/images/heroku-icon/heroku-icon-27.jpg"/></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/git.png"/></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png"/></code>
 <code><img height="40" width="40" src="https://ratfactor.com/misc/mingw64/mingw-w64.svg"/></code>
