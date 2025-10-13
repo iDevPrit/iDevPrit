@@ -57,7 +57,6 @@
 #
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SarfiraCoder" alt="Shadow" /></a> </p>
 
-<p align="left"> <a href="https://github.com/sarfiracoder"><img src="https://github-readme-streak-stats.herokuapp.com?user=SarfiraCoder&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=445&ring=0EE139&fire=0EE139&currStreakLabel=FFFFFF&sideNums=0EE139" alt="GitHub Streak" /></a> </p> 
 
 ![𝗦ʜ𝚲ᴅⓄw 🥷](https://github-readme-stats.vercel.app/api/?username=SarfiraCoder\&show_icons=true\&title_color=0EE139\&icon_color=0EE139\&text_color=9f9f9f\&bg_color=151515)
 
