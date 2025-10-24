@@ -14,7 +14,7 @@
 - 💬 **Ask me about:** Bot Development • UI/UX • Web Automation  
 - 🧩 **Community:** Sharing dev tips at [Code Wale](https://t.me/codewale)  
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/devprit)  
-- ⚡ **Fun fact:** Started coding in 2014 — still obsessed with it 🤖  
+- ⚡ **Fun fact:** My fascination with tech began in 2014 and has kept evolving ever since ⚙️✨  
 
 ---
 
