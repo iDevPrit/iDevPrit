@@ -1,6 +1,6 @@
 <h1 align="center">𝐇𝐞𝐲 👋 </>𝗦ʜ𝚲ᴅⓄw 🥷 𝐡𝐞𝐫𝐞</h1> 
 <h3 align="center">A Passionate Developer & Engineering Student from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/SarfiraCoder/SarfiraCoder/blob/main/ShadowDS.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/iDevPrit/iDevPrit/blob/main/ShadowDS.gif">
 
 
 
@@ -13,7 +13,7 @@
 
 - 💬 **Feel free to inquire about Bot Development, Web Development, Web Designing, Logo Designing, and more.**
 
-- 📫 **Contact me [Here](www.linkedin.com/in/SarfiraCoder).**
+- 📫 **Contact me [Here](www.linkedin.com/in/iDevPrit).**
 
 - 📄 **Stay tuned for updates on my Development Experiences.**
 
@@ -22,7 +22,7 @@
 #
   
 </p>
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://github.com/SarfiraCoder/SarfiraCoder/blob/main/Shadow.webp"/>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://github.com/iDevPrit/iDevPrit/blob/main/Shadow.webp"/>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,9 +55,9 @@
 <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/625/558/png-transparent-bing-bing-logo-logo-search-engine-brand-logo-linux-logo-3d-icon-thumbnail.png"/></code>
 
 #
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SarfiraCoder" alt="Shadow" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iDevPrit" alt="Shadow" /></a> </p>
 
 
-![𝗦ʜ𝚲ᴅⓄw 🥷](https://github-readme-stats.vercel.app/api/?username=SarfiraCoder\&show_icons=true\&title_color=0EE139\&icon_color=0EE139\&text_color=9f9f9f\&bg_color=151515)
+![𝗦ʜ𝚲ᴅⓄw 🥷](https://github-readme-stats.vercel.app/api/?username=iDevPrit\&show_icons=true\&title_color=0EE139\&icon_color=0EE139\&text_color=9f9f9f\&bg_color=151515)
 
-![Shadow's GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=SarfiraCoder&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)
+![Shadow's GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=iDevPrit&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)
